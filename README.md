@@ -222,6 +222,7 @@ mkdir build
 cd build
 cmake ../
 cmake --build . -- -j 6
+cd ..
 ```
 
 ### Run tests
